@@ -8,4 +8,4 @@ hahahah
 
 ## instructions 
 
-1. compile demo.c and then run it
+1. compile demo.c and then run it  .
